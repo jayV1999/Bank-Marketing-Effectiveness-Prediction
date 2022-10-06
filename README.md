@@ -1,1 +1,1 @@
-# Bank-Marketing-Effectiveness-Prediction---Jayanth-V
+# Bank-Marketing-Effectiveness-Prediction
